@@ -1,10 +1,14 @@
 html,
 body {
   margin: 0;
-  font-family: Inter, sans-serif;
+  font-family: "DM Sans",-apple-system,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,"Helvetica Neue","Helvetica",sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #1c1fce;
+  background-color: #D9AFD9;
+  background-image: linear-gradient(0deg, #D9AFD9 0%, #446cda 100%);
+  font-weight: bold;
+  
+
   color: #fff;
   overflow-x: hidden;
 }
@@ -18,9 +22,11 @@ h1 {
 }
 @media screen and (max-width: 768px) {
   h1 {
-    font-size: 3rem;
+    font-size: 5rem;
   }
 }
+
+
 
 .unsupported-network {
   width: 340px;
@@ -93,7 +99,8 @@ h1 {
 
 .member-page form h5 {
   margin-top: 0;
-  color: #4f11f8;
+  color: #5214ff;
+  font-weight: bold;
 }
 
 .member-page form .card > div {
@@ -110,13 +117,14 @@ h1 {
   background-color: #fff;
   padding: 1rem;
   border-radius: 1rem;
-  color: #000;
+  color: #5214ff;
   box-shadow: 3.1px 6.2px 6.2px hsl(0deg 0% 0% / 0.4);
 }
 
 button {
   cursor: pointer;
-  background-color: #000;
+  background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
   color: #fff;
   border: none;
   font-weight: bold;
@@ -124,7 +132,8 @@ button {
   padding: 1.2rem 2rem;
   text-transform: uppercase;
   border-radius: 3rem;
-  font-size: 1.2rem;
+  font-size: 1.6rem;
+  
 }
 
 button:hover {
