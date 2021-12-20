@@ -181,6 +181,7 @@ const App = () => {
     return (
       <div className="landing">
         <h1>Welcome to Carlos Matos Lärljungar</h1>
+        <h2>Mint your NFT, get some tokens and take part in Cryptobar!</h2>
         <button onClick={() => connectWallet("injected")} className="btn-hero">
           Connect your wallet
         </button>
@@ -194,7 +195,7 @@ const App = () => {
     return (
       <div className="member-page">
         <h1>CML Membership</h1>
-        <p>Hey Hey Hey, you're a true member of Carlos Matos Lärljungar</p>
+        <h2>Hey Hey Hey, you're a true member of Carlos Matos Lärljungar</h2>
         <div>
           <div>
             <h2>Lärljungar</h2>
