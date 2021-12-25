@@ -1,3 +1,7 @@
+# Welcome to the DAO, mint your NFT and claim your membership!
+![MorkeethDAO-2](https://user-images.githubusercontent.com/42701407/147391942-8eb09fbd-025f-4e71-90dc-e46065fa2021.png)
+## Connect your wallet and you're ready to go!
+
 # buildspace x thirdweb - Build your own DAO with just Javascript
 
 ### **Welcome 👋**
